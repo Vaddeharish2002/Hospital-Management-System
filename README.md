@@ -1,5 +1,5 @@
 
-#Hospital-Management-System-Using-MySQL-and-tkinter
+# Hospital-Management-System-Using-MySQL-and-tkinter
 DataBase Management System created with the help of MySQL workbench
 This Project is created by using tkinter for GUI
 
