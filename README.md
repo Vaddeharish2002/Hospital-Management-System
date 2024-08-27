@@ -25,8 +25,8 @@ Now you can easily manage the patient information and can perform various operat
 
 
 Prerequesites:
-Basic Knowledge of SQL query Language.
-Fair understanding of Python Programming language.
-MySQL workbench preinstalled.
-Any python IDE for running the code.
+1.Basic Knowledge of SQL query Language.
+2.Fair understanding of Python Programming language.
+3.MySQL workbench preinstalled.
+4.using vs code
 
